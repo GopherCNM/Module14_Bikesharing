@@ -10,22 +10,22 @@ After building some visualizations in Tableau worksheets, and consolidating thes
 
 The full Tableau workbook (Module14_Challenge) can be found at my [Tableau Public profile]( https://public.tableau.com/app/profile/bryce.hutchins).  
 
-1. Citi Bikes are popular in New York City!  
+**1. Citi Bikes are popular in New York City!**  
 
 In the month of August 2019, there were more than 2.3 million Citi Bike rides in New York City. My Tableau visualizations indicated that these rides were concentrated in Manhattan, with usage also sprinkled across the Brooklyn and Queens boroughs.  
 ![Citi story 1](/Screenshots/Story1.PNG)  
 
-2. Usage patterns follow traditional work schedules.  
+**2. Usage patterns follow traditional work schedules.**  
 
 I used heat maps to understand when Citi Bikes were used throughout the week and throughout the day. These indicated that rides most commonly took place during work commute times, such as 8 AM and 5-6 PM from Monday through Friday. Usage on the weekends was spread evenly across the day, from around 10 AM to 6 PM. These trends held consistent across genders. The heat map also shows that males are heavier users of Citi Bikes. Based on these findings, I suspect that much of the Citi Bike usage in NYC is related to commuting. Weekend usage is more even and spread through the day, so more likely related to leisure, sightseeing, and errands.  
 ![Citi story 2](/Screenshots/Story2.PNG)  
 
-3. Most trips are short in duration.  
+**3. Most trips are short in duration.**  
 
 I used continuous line graphs to understand trip duration, in total and by gender. This revealed that most rides were under 30 minutes in length. In fact, the peak where most rides occurred were around 5 minutes in length. This also adds support to the idea that much of Citi Bike’s rider base uses the service for work commutes within the city. I would suspect sightseeing and leisure rides would be longer than 5 minutes. There weren’t any significant differences between males and females in terms of ride duration.  
 ![Citi story 3](/Screenshots/Story3.PNG)  
 
-4. 81% of customers are subscribers.  
+**4. 81% of customers are subscribers.**  
 
 I plotted user types on a pie chart and found that 81% of rides in the month were by service subscribers, as opposed to “one-time” customers. Further, I created a heat map to show usage by day of the week, customer type, and gender. This again showed that most Citi Bike riders are male subscribers, and with usage spread across the week. As seen in the other heat maps, the heaviest periods of usage took place during the work week.  
 ![Citi story 4](/Screenshots/Story4.PNG)  
