@@ -8,7 +8,7 @@ In this project, I’ve used Tableau to visualize Citi Bike data from New York C
 
 After building some visualizations in Tableau worksheets, and consolidating these into a few dashboards, I created a Tableau story to help summarize my findings.  
 
-The full Tableau workbook (Module14_Challenge) can be found at [Tableau Public profile]( https://public.tableau.com/app/profile/bryce.hutchins).  
+The full Tableau workbook (Module14_Challenge) can be found at my [Tableau Public profile]( https://public.tableau.com/app/profile/bryce.hutchins).  
 
 1. Citi Bikes are popular in New York City!  
 
